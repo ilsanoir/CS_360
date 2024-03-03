@@ -10,4 +10,5 @@ weaknesses and vulnerabilities that would otherwise be unaddressed.
 Innovation for me came in the form of consideration. Prioritizing what I needed to do in order to accomplish the major goals of the app, rather than getting sidetracked and investing my time in other areas that could be tackled later on. By far my biggest challenge was 
 getting Android Studio to work for me to begin with. The issue had to do with emulated android devices. Attempting to run one would crash my system and corrupt my gradle. Upon completely removing all traces of Android Studio from my system and then trying to run another 
 emulated device, I could then get Android Studio to work.
+
 I think my method design and implementation was the standout of my work. Designing somewhat simple SQLite methods and then implementing them to create, read, update and delete user information was quite interesting.
